@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Ismail. I have been learning to become a front-end web developer for about a year now and I am proficient in technologies such as React, JavaScript, CSS, HTML, and SASS. My passion for programming drives me to constantly improve myself and come up with innovative solutions to achieve the best results in my projects. Creating user-friendly, aesthetically pleasing, and functional websites is important to me, and I always strive to complete my projects on time. I am comfortable working both independently and as part of a team. If you are looking for a passionate and skilled developer, you have come to the right place. Thank you!
+Hello, I'm Ismail. I have been learning to become a front-end web developer for about a year now and I am proficient in technologies such as React, JavaScript, CSS, HTML, Java, Spring & Spring Boot, Vite and SASS. My passion for programming drives me to constantly improve myself and come up with innovative solutions to achieve the best results in my projects. Creating user-friendly, aesthetically pleasing, and functional websites is important to me, and I always strive to complete my projects on time. I am comfortable working both independently and as part of a team. If you are looking for a passionate and skilled developer, you have come to the right place. Thank you!
 
 
 ## 🌐 Socials:  
