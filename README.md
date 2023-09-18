@@ -6,7 +6,7 @@ Hello, I'm Ismail. I have been learning to become a front-end web developer for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailtezal) 
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-%238DB600.svg?&style=for-the-badge&logo=spring-security&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23007ACC.svg?&style=for-the-badge&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/npm/v/npm.svg?logo=nextdotjs)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-%238DB600.svg?&style=for-the-badge&logo=spring-security&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23007ACC.svg?&style=for-the-badge&logo=vite&logoColor=white)
 
 
 # 📊 GitHub Stats:
